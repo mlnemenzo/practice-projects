@@ -32,11 +32,25 @@ body {
 }
 
 .footer {
-    position: inherit;
+    position: relative;
+    text-align: center;
     height: 15%;
     width: 100%;
 }
 
+.discard {
+    position: inherit;
+    font-size: 4vmin;
+    height: 50%;
+    width: 20%;
+    margin: auto;
+    top: 25%;
+}
+.discardButton {
+
+    font-size: 5vmin;
+
+}
 
 
 
