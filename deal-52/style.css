@@ -1,20 +1,14 @@
 
-* {
-    box-sizing: border-box;
-    border: 1px solid black;
+html {
+    font-size: 0;
 }
 
-
-
-
-
-
-body {
+body{
     position: relative;
     height: 100vh;
     width: 100vw;
-    font-size: 0;
-
+    box-sizing: border-box;
+    margin: 0;
 }
 
 
@@ -82,5 +76,7 @@ body {
     width : 70%;
     display: inline-block;
     background-color: blue;
+    margin-top: 12.5%;
+    margin-left: 15%;
 }
 
