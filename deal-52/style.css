@@ -1,0 +1,83 @@
+
+html {
+    font-size: 0;
+}
+
+body{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+
+    font-size: 0;
+    margin: 0;
+}
+
+
+
+.header {
+    position: relative;
+    height: 15%;
+    width: 100%;
+}
+
+.title {
+    position: inherit;
+    text-align: center;
+    font-size: 12vmin;
+}
+
+.footer {
+    position: relative;
+    text-align: center;
+    height: 15%;
+    width: 100%;
+}
+
+.discard {
+    position: inherit;
+    font-size: 4vmin;
+    height: 50%;
+    width: 20%;
+    margin: auto;
+    top: 25%;
+}
+.discardButton {
+
+    font-size: 5vmin;
+
+}
+
+
+
+
+
+
+
+
+
+
+#sideBar {
+    height: 70%;
+    width: 20%;
+    display: inline-block;
+    background-color: purple;
+
+}
+
+#gameBody {
+    height: 70%;
+    width: 80%;
+    vertical-align: top;
+    display: inline-block;
+    background-color: deeppink;
+}
+
+#cardContainer {
+    height: 70%;
+    width : 70%;
+    display: inline-block;
+    background-color: blue;
+    margin-top: 12.5%;
+    margin-left: 15%;
+}
+
