@@ -1,7 +1,10 @@
+
 * {
     box-sizing: border-box;
     border: 1px solid black;
 }
+
+
 
 
 
@@ -33,3 +36,36 @@ body {
     height: 15%;
     width: 100%;
 }
+
+
+
+
+
+
+
+
+
+
+
+#sideBar {
+    height: 70%;
+    width: 20%;
+    display: inline-block;
+    background-color: purple;
+
+}
+
+#gameBody {
+    height: 70%;
+    width: 80%;
+    display: inline-block;
+    background-color: deeppink;
+}
+
+#cardContainer {
+    height: 70%;
+    width : 70%;
+    display: inline-block;
+    background-color: blue;
+}
+
