@@ -1,6 +1,41 @@
 
+* {
+    box-sizing: border-box;
+    border: 1px solid black;
+}
 
 
+
+
+
+
+body {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    font-size: 0;
+
+}
+
+
+
+.header {
+    position: relative;
+    height: 15%;
+    width: 100%;
+}
+
+.title {
+    position: inherit;
+    text-align: center;
+    font-size: 12vmin;
+}
+
+.footer {
+    position: inherit;
+    height: 15%;
+    width: 100%;
+}
 
 
 
@@ -33,3 +68,4 @@
     display: inline-block;
     background-color: blue;
 }
+
